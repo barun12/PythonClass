@@ -7,3 +7,4 @@ python classes
 4. Classes and Objects(classes.py)
 5. Encrypt/Decrypt Algo(encrypt.py)
 6. Multithreading in python using "thread" module(threads.py)
+7. decorators.py
